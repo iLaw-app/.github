@@ -1,4 +1,4 @@
-![아이로 마스코트](https://raw.githubusercontent.com/iLaw-app/iLaw-frontend/main/assets/splash-robot.png)
+<img src="https://raw.githubusercontent.com/iLaw-app/iLaw-frontend/main/assets/logo1.png" width="100"/>
 
 # 아이로(路)
 
@@ -6,9 +6,9 @@
 
 **아동·청소년을 위한 쉬운 법률 가이드 서비스**
 
-카카오 테크포임팩트 캠퍼스
-한양대학교 아이온팀
-[![서비스 바로가기](https://img.shields.io/badge/서비스_바로가기-5C8D3F?style=flat&logo=expo&logoColor=white)](https://ilaw-app--6t9haoii9c.expo.app)
+카카오 테크포임팩트 캠퍼스 | 한양대학교 아이온팀
+
+[서비스 바로가기](https://ilaw-app--6t9haoii9c.expo.app)
 
 ---
 
@@ -169,9 +169,9 @@
     <tr>
       <td>인증</td>
       <td>
-        <img src="https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat&logo=kakao&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OAuth2.0-EB5424?style=flat&logo=auth0&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat&logo=passport&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
       </td>
     </tr>
   </tbody>
